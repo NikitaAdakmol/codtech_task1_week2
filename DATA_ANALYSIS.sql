@@ -1,6 +1,6 @@
-#task-2
+--task-2
 
-#Create the database 
+--Create the database 
 CREATE DATABASE sales_analysis;
 USE sales_analysis;
 
